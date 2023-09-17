@@ -1,7 +1,7 @@
 A small experiment with adding traffic to Assetto Corsa (nothing fancy, offline and without replay support
 for now).
 
-To use it:
+To use it: 
 
 1. Download missing data and extract data folder to “csp-traffic-tool” (not included by default to keep 
   CSP lighter): https://files.acstuff.ru/shared/IeBU/data.zip. Data contains car models, colliders and
